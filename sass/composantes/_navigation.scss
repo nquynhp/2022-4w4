@@ -1,4 +1,8 @@
 
+#chk-burger {
+    display: none;
+}
+
 #burger {
     position : absolute;
     transition : transform .3s;
@@ -22,6 +26,7 @@
     margin : 0;
     padding :0;
 }
+
 .menu-item{
     margin:0;
     padding : 0;

@@ -1,5 +1,5 @@
 /*
-theme name: Exer-1 gr3
+theme name: LAB4 - Ngoc Quynh Pham
 */
 /* ---------------------------------------------------------
 VARIABLES
@@ -26,6 +26,12 @@ COMPOSANTES
 @import "composantes/header";
 @import "composantes/navigation";
 @import "composantes/footer";
+@import "composantes/recherche";
+
+/* ---------------------------------------------------------
+ANIMATION
+--------------------------------------------------------- */
+@import "animation/animation";
 
 /* ---------------------------------------------------------
 LAYOUT

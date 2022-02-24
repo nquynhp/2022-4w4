@@ -1,6 +1,7 @@
 <?php get_header() ?>
 <main class="principal">
-<h1>------INDEX------</h1>
+    <h1>Liste des cours</h1>
+    <!-- le fichier doit exactement comme spécifier dans wordpress, soit category-cours(nom de catégorie) -->
     <section class="formation">
         <h2 class="formation__titre">Liste des cours du programme TIM</h2>
         <div class="formation__liste">
