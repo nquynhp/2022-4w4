@@ -479,6 +479,10 @@ COMPOSANTES
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
+.site__header .header__titre:hover {
+  color: #C596D9;
+}
+
 .util {
   display: flex;
   flex-direction: column;
