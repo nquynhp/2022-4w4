@@ -477,14 +477,14 @@ COMPOSANTES
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
-.site__header .header__desc {
-  @description;
-}
-
 .util {
   display: flex;
   flex-direction: column;
   margin-left: auto;
+}
+
+.util .util__lien a svg {
+  color: red;
 }
 
 #chk-burger {

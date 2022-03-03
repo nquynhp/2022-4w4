@@ -14,13 +14,17 @@
       font-family: $font__main;
     }
 
-    .header__desc {
-      @description;
-    }
+    // .header__desc {
+    //   @description;
+    // }
   }
 
   .util{
     display: flex;
     flex-direction: column;
     margin-left: auto;
+
+    .util__lien a svg{
+      color: red;
+    }
   }
