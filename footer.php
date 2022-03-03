@@ -1,5 +1,5 @@
 <footer class="site__footer">
-    <h2 class="footer__titre">Le magnifique footer</h2>
+    <h2 class="footer__titre">Le footer du siècle</h2>
     <p class="footer__presentation">Un site web fait par une élève du TIM à l'aide de Wordpress.</p>
     <h3 class="footer__author">Fait par Ngoc Quynh Pham</h3>
 
@@ -13,7 +13,7 @@ wp_nav_menu(array(
                     "menu_class"=>"site__footer__menu__ul",
 
                     "link_before"=>$icone)); ?>
-                    <?php get_search_form(); ?>
+                    
 </footer>
 </body>
 

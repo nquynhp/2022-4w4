@@ -1,6 +1,6 @@
 <?php get_header() ?>
 <main class="principal">
-<h1>frontpage.php</h1>
+<h1>Page d'accueil</h1>
         <section class="animation">
                 <div>1</div>
                 <!-- div.animation__bloc{$}*5 -->
