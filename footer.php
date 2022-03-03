@@ -1,5 +1,5 @@
 <footer class="site__footer">
-    <h2 class="footer__titre">Le footer du siècle</h2>
+    <h2 class="footer__titre">Mon footer</h2>
     <p class="footer__presentation">Un site web fait par une élève du TIM à l'aide de Wordpress.</p>
     <h3 class="footer__author">Fait par Ngoc Quynh Pham</h3>
 
